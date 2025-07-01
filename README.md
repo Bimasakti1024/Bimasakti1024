@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Bimasakti
 
-<!--
-**Bimasakti1024/Bimasakti1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student & programmer who loves building software in **C**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Languages
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+
+---
+
+### GitHub Stats
+![Bimasakti's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimasakti1024&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+Thanks for stepping by :)
