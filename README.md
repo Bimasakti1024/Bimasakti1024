@@ -1,6 +1,7 @@
 ## Hi, I'm Bimasakti
 
 I'm a student & programmer who loves building software in **Rust**, **C** and sometimes use another programming language.
+I hate manual memory management but i love manual memory management.
 
 ---
 
